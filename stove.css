@@ -1,0 +1,82 @@
+.ui-header .ui-title {
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+/*div.ui-slider-switch { width: 95%; }*/
+
+div.ui-slider {
+	margin: 2px;
+}
+
+.ui-controlgroup,
+fieldset.ui-controlgroup {
+	margin: 1em;
+}
+
+.ui-popup-container {
+	min-width: 220px !important;
+	z-index: 1100;
+	display: inline-block;
+	position: absolute;
+	outline: 0;
+}
+
+element.style {
+	top: 244px;
+	left: 25%;
+	right: 25%;
+}
+
+.ui-slider-label {
+	height: 0.9em;
+	font-size: 0.9em;
+	line-height: 2.3;
+}
+
+#sliders {
+	width: auto;
+	margin: 10px 5%;
+}
+
+#tmp-now {
+	font-size: 1.2em;
+	display: block;
+	text-align: center;
+	color: #8BCDE3;
+	font-weight: bold;
+}
+
+#control {
+	display: inline-block;
+}
+
+/*fieldset { display: inline-block; }*/
+
+/*.ui-controlgroup-horizontal { width: 10%; }*/
+
+.ui-controlgroup.ui-controlgroup-vertical>button.ui-button,
+.ui-controlgroup.ui-controlgroup-vertical>.ui-controlgroup-label {
+	text-align: center;
+}
+
+#car-type-button {
+	width: 120px;
+}
+
+.ui-controlgroup-horizontal .ui-spinner-input {
+	width: 50%;
+}
+
+input.ui-input-text.ui-slider-input {
+	font-size: 22px;
+}
+
+.ui-slider-track,
+.ui-slider-switch {
+	top: 10px;
+}
+
+div.ui-slider-switch {
+	width: 100%;
+}
